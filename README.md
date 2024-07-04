@@ -15,3 +15,18 @@ Ini adalah dokumentasi untuk mengingat kembali apa saja yang saya sulit untuk me
  else
  print("kondisinya adalah FALSE")
  end
+
+#Operator (..) dan (#)
+- untuk operator (..) difungsikan untuk menggabungkan dua string seperti "halo" dan "cuy". Maka hasilnya akan menjadi "halocuy".
+-CONTOHNYA :
+- a = "halo"
+- b = "cuy"
+- c = a..b
+- print(c)
+
+- untuk operator (#) difungsikan untuk menghitung jumlah kata yang ada pada string tersebut. Tapi Harus ingat Gunakan (#) di depan
+- CONTOH :
+- a = "halo"
+- b = "cuy"
+- c = a..b
+- print(c,#c)
