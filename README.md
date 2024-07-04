@@ -16,16 +16,19 @@ Ini adalah dokumentasi untuk mengingat kembali apa saja yang saya sulit untuk me
  print("kondisinya adalah FALSE")
  end
 
-#Operator (..) dan (#)
+# Operator (..) dan (#)
+
 - untuk operator (..) difungsikan untuk menggabungkan dua string seperti "halo" dan "cuy". Maka hasilnya akan menjadi "halocuy".
--CONTOHNYA :
+
+# CONTOHNYA :
 - a = "halo"
 - b = "cuy"
 - c = a..b
 - print(c)
 
 - untuk operator (#) difungsikan untuk menghitung jumlah kata yang ada pada string tersebut. Tapi Harus ingat Gunakan (#) di depan
-- CONTOH :
+
+ # CONTOH :
 - a = "halo"
 - b = "cuy"
 - c = a..b
